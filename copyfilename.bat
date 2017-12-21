@@ -1,9 +1,8 @@
 @echo off
-rem �E�N���b�N���j���[�́u�t�@�C�����R�s�[�v����Ăяo�����o�b�`�D
-rem �E�N���b�N���j���[�ւ̒ǉ��́��Q��
+rem 右クリックメニューの「ファイル名コピー」から呼び出されるバッチ．
+rem 右クリックメニューへの追加は↓参照
 rem http://matome.naver.jp/odai/2135557366989247401
 rem 
-rem "C:\Scripts\copyfilename.pl" %1
 "C:\Scripts\copyfilename.vbs" %1
 rem pause
 
