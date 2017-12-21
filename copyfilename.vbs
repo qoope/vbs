@@ -1,4 +1,3 @@
-'test? no teest! wao! Yes!!!
 'https://oshiete.goo.ne.jp/qa/9096185.html
 
 Option Explicit
