@@ -1,5 +1,5 @@
 'https://oshiete.goo.ne.jp/qa/9096185.html
-
+ 
 Option Explicit
 
 Dim args, objFS, WshShell, oExec, oIn
