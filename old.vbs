@@ -1,5 +1,6 @@
 '右クリックメニューから呼ばれ，ファイルのバックアップを取る
 'バックアップには日時が入る
+
 Option Explicit
 
 Dim args, i, objFS, strNow, strMF,strMT, RE, strHMS
